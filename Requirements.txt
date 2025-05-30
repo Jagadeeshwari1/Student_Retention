@@ -1,0 +1,15 @@
+Python 3.x
+
+Key Libraries:
+
+pandas
+
+numpy
+
+scikit-learn
+
+tensorflow
+
+matplotlib
+
+seaborn

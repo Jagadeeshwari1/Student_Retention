@@ -44,7 +44,7 @@ The dataset contains information about students, including:
 ## Usage
 1. Clone the repository
 2. Install required packages: `pip install -r requirements.txt`
-3. Run the Jupyter notebook: `jupyter notebook jagadeeshwariFinalTechnicalReport.ipynb`
+3. Run the Jupyter notebook: `Predicting_Student_Graduation.ipynb`
 
 ## Results
 The analysis provides insights into factors affecting student graduation and evaluates the performance of different predictive models. Key findings and visualizations are included in the notebook.

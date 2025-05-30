@@ -6,7 +6,7 @@ This project analyzes student retention and graduation rates using a dataset fro
 ## Dataset
 ## Data
 The dataset used in this analysis is available in the repository as:
-- [`COLLEGE_RET_SV (3).xlsx`](COLLEGE_RET_SV (3).xlsx)  
+- [`COLLEGE_RET_SV (3).xlsx`]  
 The dataset contains information about students, including:
 - Age
 - Gender

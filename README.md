@@ -4,6 +4,9 @@
 This project analyzes student retention and graduation rates using a dataset from the higher education sector. The goal is to identify key factors influencing student graduation and develop predictive models to help universities improve student success. The analysis includes data exploration, preprocessing, and modeling using various machine learning techniques.
 
 ## Dataset
+## Data
+The dataset used in this analysis is available in the repository as:
+- [`COLLEGE_RET_SV (3).xlsx`](COLLEGE_RET_SV (3).xlsx)  
 The dataset contains information about students, including:
 - Age
 - Gender
